@@ -1,0 +1,42 @@
+.mainprofile {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.firstcss {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3%;
+}
+
+.namecss {
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+    color: #86ec0e;
+}
+
+.emailcss {
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.btncss {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+}
+
+.editiconcss {
+    background-color: #c5c1c1;
+    border-radius: 50%;
+    height: fit-content;
+    align-items: center;
+}
+
+.changepasswordcss {
+    background-color: darkgreen;
+}

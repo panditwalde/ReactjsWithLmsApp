@@ -1,0 +1,9 @@
+.over:hover {
+    background-color: #8BC34A;
+    border-radius: 0 25px 25px 0;
+}
+
+.over:focus {
+    background-color: #8BC34A;
+    border-radius: 0 25px 25px 0;
+}

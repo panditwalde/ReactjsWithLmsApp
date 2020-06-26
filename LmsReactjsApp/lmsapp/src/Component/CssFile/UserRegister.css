@@ -1,0 +1,54 @@
+.mainuserregister {
+    padding: 3%;
+    width: fit-content;
+    border-radius: 10px;
+    border-style: groove;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+.userfirstlast {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-bottom: 3%;
+}
+
+.userpasswordconfirm,
+.buttoncss {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    padding-bottom: 3%;
+}
+
+.emailid,
+.moiblenumber {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-bottom: 3%;
+}
+
+.registerheadline {
+    font-style: normal;
+    font-stretch: normal;
+    font-family: inherit;
+    font-size: 37px;
+    padding-top: 2%;
+    box-sizing: border-box;
+    font-size: 2rem;
+    border-radius: 8px;
+    padding-bottom: 3%;
+    width: 100%;
+    text-align: center;
+}
+
+.password {
+    width: 35%;
+    margin-left: 8px;
+}

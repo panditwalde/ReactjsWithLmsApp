@@ -1,0 +1,36 @@
+.mainlogin {
+    padding: 3%;
+    width: fit-content;
+    border-radius: 10px;
+    border-style: groove;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 37%;
+    margin-top: 8%;
+}
+
+.forgotpassword {
+    margin-left: 118px;
+    color: #FFFFFF;
+    text-transform: lowercase;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 6px;
+    text-decoration-line: none;
+    padding-bottom: 15px;
+}
+
+.loginheadline {
+    font-style: normal;
+    font-stretch: normal;
+    font-family: inherit;
+    font-size: 37px;
+    padding-top: 2%;
+    box-sizing: border-box;
+    font-size: 2rem;
+    border-radius: 8px;
+    padding: 5px 10px;
+    width: 100%;
+    text-align: center;
+}
